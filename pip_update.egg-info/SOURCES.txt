@@ -1,4 +1,3 @@
-README.md
 setup.cfg
 setup.py
 pip_update/__init__.py
