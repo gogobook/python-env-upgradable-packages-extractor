@@ -4,7 +4,7 @@ import argparse
 import os
 import sys
 from .pip_update import extract, CMD
-__version__ = '0.3.0'
+__version__ = '0.4.1'
 
 def main(argv):
   """Main program.

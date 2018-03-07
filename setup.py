@@ -27,6 +27,7 @@ class RunTests(Command):
     results = runner.run(tests)
     sys.exit(0 if results.wasSuccessful() else 1)
 
+install_requires = ["pip>=9.0.1",]
 
 with codecs.open('README.md', 'r', 'utf-8') as fd:
   setup(
@@ -49,8 +50,10 @@ with codecs.open('README.md', 'r', 'utf-8') as fd:
           'Programming Language :: Python :: 2',
           'Programming Language :: Python :: 2.7',
           'Programming Language :: Python :: 3',
+          'Programming Language :: Python :: 3.5',
           'Programming Language :: Python :: 3.6',
       ],
+      install_requires=install_requires,
       keywords='upgradable packages extractor',
       entry_points={
           'console_scripts': ['pip-update = pip_update:run_main'],

@@ -2,6 +2,8 @@
 # first use "pip list --outdated --format json > update.json" to general a json file.
 # Then general "update.txt" by this.
 # Final use "pip install -r update.txt" to update your env.
+from __future__ import print_function
+
 import json, subprocess, os
 from datetime import date
 

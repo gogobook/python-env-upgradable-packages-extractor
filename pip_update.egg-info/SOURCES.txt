@@ -7,4 +7,5 @@ pip_update.egg-info/PKG-INFO
 pip_update.egg-info/SOURCES.txt
 pip_update.egg-info/dependency_links.txt
 pip_update.egg-info/entry_points.txt
+pip_update.egg-info/requires.txt
 pip_update.egg-info/top_level.txt
