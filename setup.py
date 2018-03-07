@@ -41,7 +41,7 @@ with codecs.open('README.md', 'r', 'utf-8') as fd:
       maintainer_email='o968041428@google.com',
       packages=['pip_update', ],
       classifiers=[
-          'Development Status :: 1 - Beta',
+          'Development Status :: 4 - Beta',
           'Environment :: Console',
           'Intended Audience :: Developers',
           'Operating System :: OS Independent',

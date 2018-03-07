@@ -2,7 +2,7 @@ Metadata-Version: 1.1
 Name: pip-update
 Version: 0.1.0
 Summary: A current and update package list of environment extractor.
-Home-page: UNKNOWN
+Home-page: https://github.com/gogobook/python-env-upgradable-packages-extractor
 Author: gogobook
 Author-email: o968041428@google.com
 License: MIT License
@@ -15,6 +15,7 @@ Description: * This program is an **pip list** warper to generate two python pac
         
         這程式是一個 **pip list** 的包裹器，會在**pip-update**資料夾內產生二個檔案, 是虛擬環境中可升級的python 套件版本列表, current+today.txt是當前的版本號列表，update.txt則是可升級的版本號列表。
         然後我們可以用pip install -r 來進行升級或還原python 虛擬環境。
+Keywords: upgradable packages extractor
 Platform: UNKNOWN
 Classifier: Development Status :: 1 - Beta
 Classifier: Environment :: Console
@@ -25,4 +26,3 @@ Classifier: Programming Language :: Python :: 2
 Classifier: Programming Language :: Python :: 2.7
 Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.6
-Classifier: Topic :: Software Development :: Libraries :: Python Modules
