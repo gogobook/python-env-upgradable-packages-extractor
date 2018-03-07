@@ -17,7 +17,7 @@ Description: * This program is an **pip list** warper to generate two python pac
         然後我們可以用pip install -r 來進行升級或還原python 虛擬環境。
 Keywords: upgradable packages extractor
 Platform: UNKNOWN
-Classifier: Development Status :: 1 - Beta
+Classifier: Development Status :: 4 - Beta
 Classifier: Environment :: Console
 Classifier: Intended Audience :: Developers
 Classifier: Operating System :: OS Independent
