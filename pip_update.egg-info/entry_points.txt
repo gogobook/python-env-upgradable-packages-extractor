@@ -1,0 +1,3 @@
+[console_scripts]
+pip-update = pip_update:run_main
+

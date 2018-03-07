@@ -1,0 +1,10 @@
+README.md
+setup.py
+pip_update/__init__.py
+pip_update/__main__.py
+pip_update/pip_update.py
+pip_update.egg-info/PKG-INFO
+pip_update.egg-info/SOURCES.txt
+pip_update.egg-info/dependency_links.txt
+pip_update.egg-info/entry_points.txt
+pip_update.egg-info/top_level.txt
