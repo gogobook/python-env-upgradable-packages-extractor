@@ -18,6 +18,7 @@ Description: * This program is an **pip list** warper to generate two python pac
         To install pip-update from PyPI:
         
             $ pip install pip-update
+            
         Usage
         =====
         

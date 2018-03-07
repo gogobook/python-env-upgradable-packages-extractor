@@ -10,6 +10,7 @@ Installation
 To install pip-update from PyPI:
 
     $ pip install pip-update
+    
 Usage
 =====
 
