@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: pip-update
-Version: 0.2.0
+Version: 0.3.0
 Summary: A current and update package list of environment extractor.
 Home-page: https://github.com/gogobook/python-env-upgradable-packages-extractor
 Author: gogobook
